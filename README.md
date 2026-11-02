@@ -283,37 +283,3 @@ The COS 201 practical assignments for Weeks 1–3 provide an introduction to pro
 Through these exercises, I have practised creating Java classes, writing output statements, understanding variables and data types, receiving user input, performing arithmetic calculations and using conditional statements.
 
 These practical exercises provide a foundation for developing more advanced programming and problem-solving skills as a Software Engineering student.
-
----
-
-# FINAL SUBMISSION CHECKLIST
-
-- [ ] Week 1 Java program saved in the correct folder.
-- [ ] Week 2 main practical program saved.
-- [ ] Week 2 additional practice programs saved.
-- [ ] All three Week 3 programs saved.
-- [ ] README.md updated with student and course information.
-- [ ] Java source files checked for correct filenames and folder locations.
-- [ ] Programs compiled and tested.
-- [ ] All files uploaded to the GitHub repository.
-- [ ] Repository link copied for submission.
-
-**Repository Name:** COS201-Programming-I
-
-**Course:** COS 201 — Computer Programming I
-
-**Student:** Imade Isaac
-
-**Matriculation Number:** 25/17643
-
-**Programme:** Software Engineering
-
-**Submission Form:**
-
-https://docs.google.com/forms/d/e/1FAIpQLScfFS-TTZzdgAZ9qPEFp8gNJpHCu0cYudvHJizNCbKOACAb1A/viewform?usp=header
-
-Submit the actual GitHub repository URL through the course submission form.
-
-If the repository is private, grant the lecturer the access required by the course instructions.
-
-**End of COS 201 Practical Assignments — Weeks 1–3.**
